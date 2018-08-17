@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo-test/root",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": {
+    "packages": ["*"]
+  }
+}

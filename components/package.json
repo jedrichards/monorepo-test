@@ -1,0 +1,13 @@
+{
+  "name": "@monorepo-test/components",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-emotion": "^9.2.6",
+    "emotion": "^9.2.6"
+  }
+}
